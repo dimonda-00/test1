@@ -1,0 +1,3 @@
+/home/cmc/geant4/geant4-build/GitBase/CPP/build/CMakeFiles/rebuild_cache.dir
+/home/cmc/geant4/geant4-build/GitBase/CPP/build/CMakeFiles/edit_cache.dir
+/home/cmc/geant4/geant4-build/GitBase/CPP/build/CMakeFiles/1.dir

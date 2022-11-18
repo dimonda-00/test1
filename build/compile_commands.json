@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/cmc/geant4/geant4-build/GitBase/CPP/build",
+  "command": "/usr/bin/c++    -g   -Wall -g -Wno-unknown-warning-option  -Wno-format-extra-args -Wno-format -Wno-pragmas  -Wno-incompatible-pointer-types -o CMakeFiles/1.dir/main.cc.o -c /home/cmc/geant4/geant4-build/GitBase/CPP/main.cc",
+  "file": "/home/cmc/geant4/geant4-build/GitBase/CPP/main.cc"
+},
+{
+  "directory": "/home/cmc/geant4/geant4-build/GitBase/CPP/build",
+  "command": "/usr/bin/c++    -g   -Wall -g -Wno-unknown-warning-option  -Wno-format-extra-args -Wno-format -Wno-pragmas  -Wno-incompatible-pointer-types -o CMakeFiles/1.dir/test.cc.o -c /home/cmc/geant4/geant4-build/GitBase/CPP/test.cc",
+  "file": "/home/cmc/geant4/geant4-build/GitBase/CPP/test.cc"
+}
+]

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cmc/geant4/geant4-build/GitBase/CPP/main.cc
+test.hh
+/home/cmc/geant4/geant4-build/GitBase/CPP/test.hh
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+fstream
+-
+string
+-
+
+/home/cmc/geant4/geant4-build/GitBase/CPP/test.cc
+test.hh
+/home/cmc/geant4/geant4-build/GitBase/CPP/test.hh
+
+/home/cmc/geant4/geant4-build/GitBase/CPP/test.hh
+
